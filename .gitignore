@@ -1,0 +1,22 @@
+# iOS / Apple
+# ===========
+.DS_Store
+ehthumbs.db
+Icon?
+Thumbs.db
+
+# Sublime editor
+# ==============
+.sublime-project
+*.sublime-project
+*.sublime-workspace
+
+# General
+# =======
+*.log
+*.dat
+*.out
+*.pid
+*.tmp
+*.bak
+*.swp
