@@ -6,13 +6,14 @@ This repo contains the list of all zones, districts and their headquarters of Ne
 
 Currently the following data formats are supported.
 
-*JSON
-*PHP
-*CSV
-*MySQL
-*HTML
-*XML
+- JSON
+- PHP
+- CSV
+- MySQL
+- HTML
+- XML
 
-##Contact Me
-Twitter: @sandipbgt
-Github: sandipbgt
+## Contact
+- Twitter: [@sandipbt](https://twitter.com/sandipbgt)
+- Github: [@sandipbt](https://github.com/sandipbgt)
+- Email: [sandipbgt@gmail.com](mailto:sandipbgt@gmail.com)
