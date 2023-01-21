@@ -1,0 +1,817 @@
+{
+  "Taplejung": {
+    "Ma.Na.Pa.": [],
+    "Upa.Ma.": [],
+    "Na.Pa.": [
+      "Taplejung(Phungling)"
+    ],
+    "Ga.Pa.": []
+  },
+  "Panchthar": {
+    "Ma.Na.Pa.": [],
+    "Upa.Ma.": [],
+    "Na.Pa.": [],
+    "Ga.Pa.": []
+  },
+  "Ilam": {
+    "Ma.Na.Pa.": [],
+    "Upa.Ma.": [],
+    "Na.Pa.": [
+      "Suryodaya",
+      "Ilam",
+      "Deumai",
+      "Mai"
+    ],
+    "Ga.Pa.": []
+  },
+  "Jhapa": {
+    "Ma.Na.Pa.": [],
+    "Upa.Ma.": [],
+    "Na.Pa.": [
+      "Mechinagar",
+      "Birtamod",
+      "Damak",
+      "Bhadrapur",
+      "Shivasatakshi",
+      "Arjundhara",
+      "Gauradaha",
+      "Kankai"
+    ],
+    "Ga.Pa.": []
+  },
+  "Morang": {
+    "Ma.Na.Pa.": [
+      "Biratnagar"
+    ],
+    "Upa.Ma.": [],
+    "Na.Pa.": [
+      "SundarHaraincha",
+      "Belbari",
+      "Pathari-Shanischare",
+      "Ratuwamai",
+      "Urlabari",
+      "Rangeli",
+      "Sunawarshi",
+      "LetangBhogateni"
+    ],
+    "Ga.Pa.": []
+  },
+  "Sunsari": {
+    "Ma.Na.Pa.": [],
+    "Upa.Ma.": [
+      "Itahari",
+      "Dharan"
+    ],
+    "Na.Pa.": [
+      "Barahachhetra",
+      "Inaruwa",
+      "Duhabi",
+      "Ramdhuni"
+    ],
+    "Ga.Pa.": []
+  },
+  "Dhankuta": {
+    "Ma.Na.Pa.": [],
+    "Upa.Ma.": [],
+    "Na.Pa.": [
+      "Dhankuta",
+      "Mahalaxmi",
+      "Pakhribas"
+    ],
+    "Ga.Pa.": []
+  },
+  "Terhathum": {
+    "Ma.Na.Pa.": [],
+    "Upa.Ma.": [],
+    "Na.Pa.": [],
+    "Ga.Pa.": []
+  },
+  "Sankhuwasabha": {
+    "Ma.Na.Pa.": [],
+    "Upa.Ma.": [],
+    "Na.Pa.": [
+      "Khandbari",
+      "Chainpur",
+      "Dharmadevi",
+      "Panchkhapan",
+      "Madi"
+    ],
+    "Ga.Pa.": []
+  },
+  "Bhojpur": {
+    "Ma.Na.Pa.": [],
+    "Upa.Ma.": [],
+    "Na.Pa.": [
+      "Shadanand",
+      "Bhojpur"
+    ],
+    "Ga.Pa.": []
+  },
+  "Solukhumbu": {
+    "Ma.Na.Pa.": [],
+    "Upa.Ma.": [],
+    "Na.Pa.": [
+      "SoluDudhkunda"
+    ],
+    "Ga.Pa.": []
+  },
+  "Okhaldhunga": {
+    "Ma.Na.Pa.": [],
+    "Upa.Ma.": [],
+    "Na.Pa.": [
+      "Siddhicharan"
+    ],
+    "Ga.Pa.": []
+  },
+  "Khotang": {
+    "Ma.Na.Pa.": [],
+    "Upa.Ma.": [],
+    "Na.Pa.": [
+      "RupakotMajhuwagadhi",
+      "HalesiTuwachung"
+    ],
+    "Ga.Pa.": []
+  },
+  "Udayapur": {
+    "Ma.Na.Pa.": [],
+    "Upa.Ma.": [],
+    "Na.Pa.": [
+      "Triyuga",
+      "Katari",
+      "Chaudandigadhi",
+      "Belaka"
+    ],
+    "Ga.Pa.": []
+  },
+  "Saptari": {
+    "Ma.Na.Pa.": [],
+    "Upa.Ma.": [],
+    "Na.Pa.": [
+      "Rajbiraj",
+      "HanumannagarKankalini",
+      "Khadak",
+      "Dakneshwari",
+      "Surunga",
+      "Bodebarsain",
+      "Shambhunath",
+      "Kanchanrup",
+      "Saptakoshi"
+    ],
+    "Ga.Pa.": []
+  },
+  "Siraha": {
+    "Ma.Na.Pa.": [],
+    "Upa.Ma.": [],
+    "Na.Pa.": [
+      "Lahan",
+      "Siraha",
+      "Golbazar",
+      "Mirchaiya",
+      "Kalyanpur",
+      "Dhangadimai",
+      "Sukhipur",
+      "Karjanha"
+    ],
+    "Ga.Pa.": []
+  },
+  "Dhanusa": {
+    "Ma.Na.Pa.": [],
+    "Upa.Ma.": [],
+    "Na.Pa.": [
+      "MithilaBihari"
+    ],
+    "Ga.Pa.": []
+  },
+  "Mahottari": {
+    "Ma.Na.Pa.": [],
+    "Upa.Ma.": [],
+    "Na.Pa.": [
+      "Gaushala",
+      "Bardibas",
+      "Jaleshwar",
+      "ManaraShiswa",
+      "Bhangaha",
+      "Balawa",
+      "Loharpatti",
+      "Aurahi",
+      "Matihani",
+      "Ramgopalpur"
+    ],
+    "Ga.Pa.": []
+  },
+  "Sarlahi": {
+    "Ma.Na.Pa.": [],
+    "Upa.Ma.": [],
+    "Na.Pa.": [
+      "Barahathwa",
+      "Ishwarpur",
+      "Lalbandi",
+      "Godaita",
+      "Malangwa",
+      "Balara",
+      "Hariwan",
+      "Kabilasi",
+      "Bagmati",
+      "Haripur",
+      "Haripurwa"
+    ],
+    "Ga.Pa.": []
+  },
+  "Bara": {
+    "Ma.Na.Pa.": [],
+    "Upa.Ma.": [
+      "Kalaiya",
+      "Jitpursimara"
+    ],
+    "Na.Pa.": [
+      "Mahagadhimai",
+      "Simraungadh",
+      "Kolhabi",
+      "Nijgadh",
+      "Pacharauta"
+    ],
+    "Ga.Pa.": []
+  },
+  "Parsa": {
+    "Ma.Na.Pa.": [
+      "Birgunj"
+    ],
+    "Upa.Ma.": [],
+    "Na.Pa.": [
+      "Bahudarmai",
+      "Parsagadhi",
+      "Pokhariya"
+    ],
+    "Ga.Pa.": []
+  },
+  "Rautahat": {
+    "Ma.Na.Pa.": [],
+    "Upa.Ma.": [],
+    "Na.Pa.": [
+      "Chandrapur",
+      "Garuda",
+      "Gujara",
+      "Brindaban",
+      "Ishnath",
+      "Rajpur",
+      "Gadhimai",
+      "Katahariya",
+      "Paroha",
+      "PhatuwaBijayapur",
+      "Baudhimai",
+      "MadhavNarayan",
+      "Gaur",
+      "DewahiGonahi",
+      "Rajdevi",
+      "Maulapur"
+    ],
+    "Ga.Pa.": []
+  },
+  "Sindhuli": {
+    "Ma.Na.Pa.": [],
+    "Upa.Ma.": [],
+    "Na.Pa.": [
+      "Dudhauli",
+      "Kamalamai"
+    ],
+    "Ga.Pa.": []
+  },
+  "Ramechhap": {
+    "Ma.Na.Pa.": [],
+    "Upa.Ma.": [],
+    "Na.Pa.": [
+      "Manthali",
+      "Ramechhap"
+    ],
+    "Ga.Pa.": []
+  },
+  "Dolakha": {
+    "Ma.Na.Pa.": [],
+    "Upa.Ma.": [],
+    "Na.Pa.": [
+      "Bhimeshwar",
+      "Jiri"
+    ],
+    "Ga.Pa.": []
+  },
+  "Sindhupalchok": {
+    "Ma.Na.Pa.": [],
+    "Upa.Ma.": [],
+    "Na.Pa.": [
+      "ChautaraSangachokgadhi",
+      "Melamchi",
+      "Barhabise"
+    ],
+    "Ga.Pa.": []
+  },
+  "Kavrepalanchok": {
+    "Ma.Na.Pa.": [],
+    "Upa.Ma.": [],
+    "Na.Pa.": [
+      "Banepa",
+      "Paunauti",
+      "Panchkhal",
+      "Mandandeupur",
+      "Dhulikhel",
+      "Namobuddha"
+    ],
+    "Ga.Pa.": []
+  },
+  "Lalitpur": {
+    "Ma.Na.Pa.": [
+      "Lalitpur"
+    ],
+    "Upa.Ma.": [],
+    "Na.Pa.": [
+      "Mahalaxmi",
+      "Godawari"
+    ],
+    "Ga.Pa.": []
+  },
+  "Bhaktapur": {
+    "Ma.Na.Pa.": [],
+    "Upa.Ma.": [],
+    "Na.Pa.": [
+      "Suryabinayak",
+      "MadhyapurThimi",
+      "Bhaktapur",
+      "Changunarayan"
+    ],
+    "Ga.Pa.": []
+  },
+  "Kathmandu": {
+    "Ma.Na.Pa.": [
+      "Kathmandu"
+    ],
+    "Upa.Ma.": [],
+    "Na.Pa.": [
+      "Budhanilkantha",
+      "Tarakeshwar",
+      "Gokarneshwar",
+      "Chandragiri",
+      "Tokha",
+      "Kageshwari-Manohara",
+      "Nagarjun",
+      "Kirtipur",
+      "Shankharapur",
+      "Dakshinkali"
+    ],
+    "Ga.Pa.": []
+  },
+  "Nuwakot": {
+    "Ma.Na.Pa.": [],
+    "Upa.Ma.": [],
+    "Na.Pa.": [
+      "Bidur",
+      "Belkotgadhi"
+    ],
+    "Ga.Pa.": []
+  },
+  "Rasuwa": {
+    "Ma.Na.Pa.": [],
+    "Upa.Ma.": [],
+    "Na.Pa.": [],
+    "Ga.Pa.": []
+  },
+  "Dhading": {
+    "Ma.Na.Pa.": [],
+    "Upa.Ma.": [],
+    "Na.Pa.": [
+      "Nilkantha",
+      "Dhunibeshi"
+    ],
+    "Ga.Pa.": []
+  },
+  "Makwanpur": {
+    "Ma.Na.Pa.": [],
+    "Upa.Ma.": [],
+    "Na.Pa.": [],
+    "Ga.Pa.": []
+  },
+  "Chitwan": {
+    "Ma.Na.Pa.": [
+      "Bharatpur"
+    ],
+    "Upa.Ma.": [],
+    "Na.Pa.": [
+      "Ratnanagar",
+      "Rapti",
+      "Khairhani",
+      "Kalika",
+      "Madi"
+    ],
+    "Ga.Pa.": []
+  },
+  "Gorkha": {
+    "Ma.Na.Pa.": [],
+    "Upa.Ma.": [],
+    "Na.Pa.": [
+      "Gorkha",
+      "Palungtar"
+    ],
+    "Ga.Pa.": []
+  },
+  "Lamjung": {
+    "Ma.Na.Pa.": [],
+    "Upa.Ma.": [],
+    "Na.Pa.": [
+      "Besisahar",
+      "Sundarbazar",
+      "MadhyaNepal",
+      "Rainas"
+    ],
+    "Ga.Pa.": []
+  },
+  "Tanahun": {
+    "Ma.Na.Pa.": [],
+    "Upa.Ma.": [],
+    "Na.Pa.": [
+      "Vyas",
+      "Shuklagandaki",
+      "Bhanu",
+      "Bhimad"
+    ],
+    "Ga.Pa.": []
+  },
+  "Syangja": {
+    "Ma.Na.Pa.": [],
+    "Upa.Ma.": [],
+    "Na.Pa.": [
+      "Waling",
+      "Putalibazar",
+      "Galyang",
+      "Chapakot",
+      "Bhirkot"
+    ],
+    "Ga.Pa.": []
+  },
+  "Kaski": {
+    "Ma.Na.Pa.": [
+      "Pokhara"
+    ],
+    "Upa.Ma.": [],
+    "Na.Pa.": [],
+    "Ga.Pa.": []
+  },
+  "Manang": {
+    "Ma.Na.Pa.": [],
+    "Upa.Ma.": [],
+    "Na.Pa.": [],
+    "Ga.Pa.": []
+  },
+  "Mustang": {
+    "Ma.Na.Pa.": [],
+    "Upa.Ma.": [],
+    "Na.Pa.": [],
+    "Ga.Pa.": []
+  },
+  "Myagdi": {
+    "Ma.Na.Pa.": [],
+    "Upa.Ma.": [],
+    "Na.Pa.": [
+      "Beni"
+    ],
+    "Ga.Pa.": []
+  },
+  "Nawalpur": {
+    "Ma.Na.Pa.": [],
+    "Upa.Ma.": [],
+    "Na.Pa.": [
+      "Kawasoti",
+      "Gaindakot",
+      "Madhyabindu",
+      "Devchuli"
+    ],
+    "Ga.Pa.": []
+  },
+  "Parbat": {
+    "Ma.Na.Pa.": [],
+    "Upa.Ma.": [],
+    "Na.Pa.": [
+      "Kushma",
+      "Phalewas"
+    ],
+    "Ga.Pa.": []
+  },
+  "Baglung": {
+    "Ma.Na.Pa.": [],
+    "Upa.Ma.": [],
+    "Na.Pa.": [
+      "Baglung",
+      "Galkot",
+      "Jaimini",
+      "Dhorpatan"
+    ],
+    "Ga.Pa.": []
+  },
+  "Gulmi": {
+    "Ma.Na.Pa.": [],
+    "Upa.Ma.": [],
+    "Na.Pa.": [
+      "Musikot",
+      "Resunga"
+    ],
+    "Ga.Pa.": []
+  },
+  "Palpa": {
+    "Ma.Na.Pa.": [],
+    "Upa.Ma.": [],
+    "Na.Pa.": [
+      "Tansen",
+      "Rampur"
+    ],
+    "Ga.Pa.": []
+  },
+  "Parasi": {
+    "Ma.Na.Pa.": [],
+    "Upa.Ma.": [],
+    "Na.Pa.": [
+      "Ramgram",
+      "Sunwal",
+      "Bardghat"
+    ],
+    "Ga.Pa.": []
+  },
+  "Rupandehi": {
+    "Ma.Na.Pa.": [],
+    "Upa.Ma.": [
+      "Butwal"
+    ],
+    "Na.Pa.": [
+      "Tilottama",
+      "LumbiniSanskritik",
+      "Siddharthanagar",
+      "Sainamaina",
+      "Devdaha"
+    ],
+    "Ga.Pa.": []
+  },
+  "Kapilvastu": {
+    "Ma.Na.Pa.": [],
+    "Upa.Ma.": [],
+    "Na.Pa.": [
+      "Kapilvastu",
+      "Banganga",
+      "Shivaraj",
+      "Buddhabhumi",
+      "Krishnanagar",
+      "Maharajganj"
+    ],
+    "Ga.Pa.": []
+  },
+  "Arghakhanchi": {
+    "Ma.Na.Pa.": [],
+    "Upa.Ma.": [],
+    "Na.Pa.": [
+      "Sitganga",
+      "Sandhikharka",
+      "Bhumikasthan"
+    ],
+    "Ga.Pa.": []
+  },
+  "Pyuthan": {
+    "Ma.Na.Pa.": [],
+    "Upa.Ma.": [],
+    "Na.Pa.": [
+      "Pyuthan",
+      "Swargadwari"
+    ],
+    "Ga.Pa.": []
+  },
+  "Rolpa": {
+    "Ma.Na.Pa.": [],
+    "Upa.Ma.": [],
+    "Na.Pa.": [
+      "Rolpa"
+    ],
+    "Ga.Pa.": []
+  },
+  "Eastern Rukum": {
+    "Ma.Na.Pa.": [],
+    "Upa.Ma.": [],
+    "Na.Pa.": [],
+    "Ga.Pa.": []
+  },
+  "Banke": {
+    "Ma.Na.Pa.": [],
+    "Upa.Ma.": [
+      "Nepalgunj"
+    ],
+    "Na.Pa.": [
+      "Kohalpur"
+    ],
+    "Ga.Pa.": []
+  },
+  "Bardiya": {
+    "Ma.Na.Pa.": [],
+    "Upa.Ma.": [],
+    "Na.Pa.": [
+      "Barbardiya",
+      "Gulariya",
+      "Rajapur",
+      "Bansgadhi",
+      "Madhuwan",
+      "Thakurbaba"
+    ],
+    "Ga.Pa.": []
+  },
+  "Dang": {
+    "Ma.Na.Pa.": [],
+    "Upa.Ma.": [
+      "Ghorahi",
+      "Tulsipur"
+    ],
+    "Na.Pa.": [
+      "Lamahi"
+    ],
+    "Ga.Pa.": []
+  },
+  "Western Rukum": {
+    "Ma.Na.Pa.": [],
+    "Upa.Ma.": [],
+    "Na.Pa.": [],
+    "Ga.Pa.": []
+  },
+  "Salyan": {
+    "Ma.Na.Pa.": [],
+    "Upa.Ma.": [],
+    "Na.Pa.": [
+      "BangadKupinde",
+      "Bagchaur",
+      "Shaarda"
+    ],
+    "Ga.Pa.": []
+  },
+  "Surkhet": {
+    "Ma.Na.Pa.": [],
+    "Upa.Ma.": [],
+    "Na.Pa.": [
+      "Birendranagar",
+      "Gurbhakot",
+      "Bheriganga",
+      "Panchapuri",
+      "Lekbeshi"
+    ],
+    "Ga.Pa.": []
+  },
+  "Dailekh": {
+    "Ma.Na.Pa.": [],
+    "Upa.Ma.": [],
+    "Na.Pa.": [
+      "Dullu",
+      "Aathabis",
+      "Narayan",
+      "ChamundaBindrasaini"
+    ],
+    "Ga.Pa.": []
+  },
+  "Jajarkot": {
+    "Ma.Na.Pa.": [],
+    "Upa.Ma.": [],
+    "Na.Pa.": [
+      "Chhedagad",
+      "Bheri",
+      "Nalgad"
+    ],
+    "Ga.Pa.": []
+  },
+  "Dolpa": {
+    "Ma.Na.Pa.": [],
+    "Upa.Ma.": [],
+    "Na.Pa.": [
+      "TripuraSundari",
+      "ThuliBheri"
+    ],
+    "Ga.Pa.": []
+  },
+  "Jumla": {
+    "Ma.Na.Pa.": [],
+    "Upa.Ma.": [],
+    "Na.Pa.": [
+      "Chandannath"
+    ],
+    "Ga.Pa.": []
+  },
+  "Kalikot": {
+    "Ma.Na.Pa.": [],
+    "Upa.Ma.": [],
+    "Na.Pa.": [
+      "Khandachakra",
+      "Raskot",
+      "Tilagupha"
+    ],
+    "Ga.Pa.": []
+  },
+  "Mugu": {
+    "Ma.Na.Pa.": [],
+    "Upa.Ma.": [],
+    "Na.Pa.": [
+      "ChhayanathRara"
+    ],
+    "Ga.Pa.": []
+  },
+  "Humla": {
+    "Ma.Na.Pa.": [],
+    "Upa.Ma.": [],
+    "Na.Pa.": [],
+    "Ga.Pa.": []
+  },
+  "Bajura": {
+    "Ma.Na.Pa.": [],
+    "Upa.Ma.": [],
+    "Na.Pa.": [
+      "Budhiganga",
+      "Budhinanda",
+      "Tribeni",
+      "Badimalika"
+    ],
+    "Ga.Pa.": []
+  },
+  "Bajhang": {
+    "Ma.Na.Pa.": [],
+    "Upa.Ma.": [],
+    "Na.Pa.": [
+      "Bungal",
+      "JayaPrithvi"
+    ],
+    "Ga.Pa.": []
+  },
+  "Achham": {
+    "Ma.Na.Pa.": [],
+    "Upa.Ma.": [],
+    "Na.Pa.": [
+      "Sanphebagar",
+      "Mangalsen",
+      "PanchadewalBinayak",
+      "Kamalbazar"
+    ],
+    "Ga.Pa.": []
+  },
+  "Doti": {
+    "Ma.Na.Pa.": [],
+    "Upa.Ma.": [],
+    "Na.Pa.": [
+      "DipayalSilgadhi",
+      "Shikhar"
+    ],
+    "Ga.Pa.": []
+  },
+  "Kailali": {
+    "Ma.Na.Pa.": [],
+    "Upa.Ma.": [
+      "Dhangadhi"
+    ],
+    "Na.Pa.": [
+      "Tikapur",
+      "Godawari",
+      "LamkiChuha",
+      "Ghodaghodi",
+      "Gauriganga",
+      "Bhajani"
+    ],
+    "Ga.Pa.": []
+  },
+  "Kanchanpur": {
+    "Ma.Na.Pa.": [],
+    "Upa.Ma.": [],
+    "Na.Pa.": [
+      "Bhimdatta",
+      "Krishnapur",
+      "Punarbas",
+      "Belauri",
+      "Bedkot",
+      "Shuklaphanta",
+      "Mahakali"
+    ],
+    "Ga.Pa.": []
+  },
+  "Dadeldhura": {
+    "Ma.Na.Pa.": [],
+    "Upa.Ma.": [],
+    "Na.Pa.": [
+      "Parshuram",
+      "Amargadhi"
+    ],
+    "Ga.Pa.": []
+  },
+  "Baitadi": {
+    "Ma.Na.Pa.": [],
+    "Upa.Ma.": [],
+    "Na.Pa.": [
+      "Purchaudi",
+      "Dasharathchand",
+      "Patan",
+      "Melauli"
+    ],
+    "Ga.Pa.": []
+  },
+  "Darchula": {
+    "Ma.Na.Pa.": [],
+    "Upa.Ma.": [],
+    "Na.Pa.": [
+      "Shailyashikhar",
+      "Mahakali"
+    ],
+    "Ga.Pa.": []
+  }
+}

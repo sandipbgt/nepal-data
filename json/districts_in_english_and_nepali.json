@@ -1,0 +1,310 @@
+[
+  {
+    "english": "Taplejung",
+    "nepali": "ताप्लेजुङ"
+  },
+  {
+    "english": "Panchthar",
+    "nepali": "पाँचथर"
+  },
+  {
+    "english": "Ilam",
+    "nepali": "इलाम"
+  },
+  {
+    "english": "Jhapa",
+    "nepali": "झापा"
+  },
+  {
+    "english": "Morang",
+    "nepali": "मोरङ"
+  },
+  {
+    "english": "Sunsari",
+    "nepali": "सुनसरी"
+  },
+  {
+    "english": "Dhankuta",
+    "nepali": "धनकुटा"
+  },
+  {
+    "english": "Terhathum",
+    "nepali": "तेह्रथुम"
+  },
+  {
+    "english": "Sankhuwasabha",
+    "nepali": "सङ्खुवासभा"
+  },
+  {
+    "english": "Bhojpur",
+    "nepali": "भोजपुर"
+  },
+  {
+    "english": "Solukhumbu",
+    "nepali": "सोलुखुम्बु"
+  },
+  {
+    "english": "Okhaldhunga",
+    "nepali": "ओखलढुङ्गा"
+  },
+  {
+    "english": "Khotang",
+    "nepali": "खोटाङ"
+  },
+  {
+    "english": "Udayapur",
+    "nepali": "उदयपुर"
+  },
+  {
+    "english": "Saptari",
+    "nepali": "सप्तरी"
+  },
+  {
+    "english": "Siraha",
+    "nepali": "सिराहा"
+  },
+  {
+    "english": "Dhanusa",
+    "nepali": "धनुषा"
+  },
+  {
+    "english": "Mahottari",
+    "nepali": "महोत्तरी"
+  },
+  {
+    "english": "Sarlahi",
+    "nepali": "सर्लाही"
+  },
+  {
+    "english": "Bara",
+    "nepali": "बारा"
+  },
+  {
+    "english": "Parsa",
+    "nepali": "पर्सा"
+  },
+  {
+    "english": "Rautahat",
+    "nepali": "रौतहट"
+  },
+  {
+    "english": "Sindhuli",
+    "nepali": "सिन्धुली"
+  },
+  {
+    "english": "Ramechhap",
+    "nepali": "रामेछाप"
+  },
+  {
+    "english": "Dolakha",
+    "nepali": "दोलखा"
+  },
+  {
+    "english": "Sindhupalchok",
+    "nepali": "सिन्धुपाल्चोक"
+  },
+  {
+    "english": "Kavrepalanchok",
+    "nepali": "काभ्रेपलान्चोक"
+  },
+  {
+    "english": "Lalitpur",
+    "nepali": "ललितपुर"
+  },
+  {
+    "english": "Bhaktapur",
+    "nepali": "भक्तपुर"
+  },
+  {
+    "english": "Kathmandu",
+    "nepali": "काठमाडौँ"
+  },
+  {
+    "english": "Nuwakot",
+    "nepali": "नुवाकोट"
+  },
+  {
+    "english": "Rasuwa",
+    "nepali": "रसुवा"
+  },
+  {
+    "english": "Dhading",
+    "nepali": "धादिङ"
+  },
+  {
+    "english": "Makwanpur",
+    "nepali": "मकवानपुर"
+  },
+  {
+    "english": "Chitwan",
+    "nepali": "चितवन"
+  },
+  {
+    "english": "Gorkha",
+    "nepali": "गोरखा"
+  },
+  {
+    "english": "Lamjung",
+    "nepali": "लमजुङ"
+  },
+  {
+    "english": "Tanahun",
+    "nepali": "तनहुँ"
+  },
+  {
+    "english": "Syangja",
+    "nepali": "स्याङ्जा"
+  },
+  {
+    "english": "Kaski",
+    "nepali": "कास्की"
+  },
+  {
+    "english": "Manang",
+    "nepali": "मनाङ"
+  },
+  {
+    "english": "Mustang",
+    "nepali": "मुस्ताङ"
+  },
+  {
+    "english": "Myagdi",
+    "nepali": "म्याग्दी"
+  },
+  {
+    "english": "Nawalpur",
+    "nepali": "नवलपुर"
+  },
+  {
+    "english": "Parbat",
+    "nepali": "पर्वत"
+  },
+  {
+    "english": "Baglung",
+    "nepali": "बाग्लुङ"
+  },
+  {
+    "english": "Gulmi",
+    "nepali": "गुल्मी"
+  },
+  {
+    "english": "Palpa",
+    "nepali": "पाल्पा"
+  },
+  {
+    "english": "Parasi",
+    "nepali": "नवलपरासी"
+  },
+  {
+    "english": "Rupandehi",
+    "nepali": "रुपन्देही"
+  },
+  {
+    "english": "Kapilvastu",
+    "nepali": "कपिलवस्तु"
+  },
+  {
+    "english": "Arghakhanchi",
+    "nepali": "अर्घाखाँची"
+  },
+  {
+    "english": "Pyuthan",
+    "nepali": "प्युठान"
+  },
+  {
+    "english": "Rolpa",
+    "nepali": "रोल्पा"
+  },
+  {
+    "english": "Eastern Rukum",
+    "nepali": "पूर्वी रुकुम"
+  },
+  {
+    "english": "Banke",
+    "nepali": "बाँके"
+  },
+  {
+    "english": "Bardiya",
+    "nepali": "बर्दिया"
+  },
+  {
+    "english": "Dang",
+    "nepali": "दाङ"
+  },
+  {
+    "english": "Western Rukum",
+    "nepali": "पश्चिम रुकुम"
+  },
+  {
+    "english": "Salyan",
+    "nepali": "सल्यान"
+  },
+  {
+    "english": "Surkhet",
+    "nepali": "सुर्खेत"
+  },
+  {
+    "english": "Dailekh",
+    "nepali": "दैलेख"
+  },
+  {
+    "english": "Jajarkot",
+    "nepali": "जाजरकोट"
+  },
+  {
+    "english": "Dolpa",
+    "nepali": "डोल्पा"
+  },
+  {
+    "english": "Jumla",
+    "nepali": "जुम्ला"
+  },
+  {
+    "english": "Kalikot",
+    "nepali": "कालिकोट"
+  },
+  {
+    "english": "Mugu",
+    "nepali": "मुगु"
+  },
+  {
+    "english": "Humla",
+    "nepali": "हुम्ला"
+  },
+  {
+    "english": "Bajura",
+    "nepali": "बाजुरा"
+  },
+  {
+    "english": "Bajhang",
+    "nepali": "बझाङ"
+  },
+  {
+    "english": "Achham",
+    "nepali": "अछाम"
+  },
+  {
+    "english": "Doti",
+    "nepali": "डोटी"
+  },
+  {
+    "english": "Kailali",
+    "nepali": "कैलाली"
+  },
+  {
+    "english": "Kanchanpur",
+    "nepali": "कञ्चनपुर"
+  },
+  {
+    "english": "Dadeldhura",
+    "nepali": "डडेल्धुरा"
+  },
+  {
+    "english": "Baitadi",
+    "nepali": "बैतडी"
+  },
+  {
+    "english": "Darchula",
+    "nepali": "दार्चुला"
+  }
+]
